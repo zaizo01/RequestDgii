@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bBK7hzbEaTmfkFMJil/u6OAYgkoiCIZhlNcZrrNaqlFKEUJ3tt5xbf06IEuCVSJU4+5CDV4wxUGiuebDA7xWlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\czaiz\\Desktop\\Projects\\Me\\APIDGIICONSULTING\\Consulting\\Consulting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\czaiz\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}

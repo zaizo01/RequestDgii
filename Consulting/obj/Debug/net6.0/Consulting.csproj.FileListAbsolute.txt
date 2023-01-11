@@ -1,0 +1,12 @@
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\bin\Debug\net6.0\Consulting.deps.json
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\bin\Debug\net6.0\Consulting.dll
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\bin\Debug\net6.0\Consulting.pdb
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.csproj.AssemblyReference.cache
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.AssemblyInfoInputs.cache
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.AssemblyInfo.cs
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.csproj.CoreCompileInputs.cache
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.dll
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\refint\Consulting.dll
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\Consulting.pdb
+C:\Users\czaiz\Desktop\Projects\Me\APIDGIICONSULTING\Consulting\obj\Debug\net6.0\ref\Consulting.dll
